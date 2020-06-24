@@ -10,4 +10,8 @@ export default {
 </script>
 
 <style lang="css" scoped>
+li {
+  display: block;
+  margin: 0 10px;
+}
 </style>
